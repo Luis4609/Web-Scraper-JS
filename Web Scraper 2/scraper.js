@@ -21,4 +21,4 @@ const getProductsNames = async () => {
 };
 
 getProductsNames()
-.then((postTitles) => console.log(postTitles));
+.then((productsName) => console.log(productsName));
